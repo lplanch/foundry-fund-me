@@ -12,3 +12,12 @@ docs/
 
 # Dotenv file
 .env
+
+# Broadcast folder
+broadcast/
+
+# Lib folder
+lib/
+
+# .gas-snapshot file
+.gas-snapshot
